@@ -1,0 +1,1 @@
+This is Isamu's first git project! F yeah!
